@@ -1,0 +1,11 @@
+;; Problema de la mochila. n = 4, W = 15
+;; Se permiten comentarios comenzando por 2 o más ;
+;; Resolución mediante la técnica de ramificación y acotación
+
+
+4
+15
+1 10 2
+2 10 4
+3 12 6
+4 18 9

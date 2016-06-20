@@ -1,0 +1,8 @@
+;; The solution should be v = 90
+
+4
+10
+1 10 5
+2 40 4
+3 30 6
+4 50 3

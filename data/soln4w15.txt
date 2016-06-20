@@ -1,0 +1,5 @@
+;; Solución generada por mediante el algoritmo de B&B
+;; para el problema de la mochila 0-1 (knapsack problem)
+1 | 1 | 0 | 1 | 
+Value: 38
+Weight: 15
